@@ -97,7 +97,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Waqad's github stats](https://github-readme-stats.vercel.app/api?username=waqadArshad&theme=gotham)](https://github.com/waqadArshad/github-readme-stats)
+[![Waqad's github stats](https://github-readme-stats.vercel.app/api?username=waqadArshad&theme=gotham)](https://github.com/bilalsaeedjh/github-readme-stats)
 
 
 
